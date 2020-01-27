@@ -1,4 +1,5 @@
-# MRI Lesion Segmentation in Multiple Sclerosis Database
+# MRI Lesion Segmentation in Multiple Sclerosis Database 
+Reproducing the original research
 
 Dataset page: http://www.ehealthlab.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets
 
