@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+
+/data/*
+!/data/download.sh
+!/data/PatientCodes-Names-full.xls
