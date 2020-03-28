@@ -3,3 +3,4 @@
 /data/*
 !/data/download.sh
 !/data/PatientCodes-Names-full.xls
+!/data/swap.py
